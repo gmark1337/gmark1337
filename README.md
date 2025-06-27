@@ -7,11 +7,10 @@ I'm a passionate **Backend Developer** with a keen interest in building things t
 
   
 
-🌱 **What I'm Learning & Focused On**
+🌱 **I'm currently learning **
 
-I'm always eager to expand my knowledge and skills! Currently, I'm diving deep into:
+Knowledge is power! I'm open in learning new things.Nowadays, I spend my free time learning:
 
-  
 
 **Node.js:** I am currently working on a webscraper using the Puppeteer and node-fetch libraries to gather and process data from the web.
 
@@ -40,7 +39,7 @@ Feel free to browse some examples of my work. More projects will be added soon!
 
 🤝 **Let's Connect!**
 
-I'm always open to collaborating on interesting projects or just having a chat. Feel free to reach out!
+If you have any questions about my work or my availability feel free to reach me!
 
   
 
