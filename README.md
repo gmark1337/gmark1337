@@ -7,7 +7,7 @@ I'm a passionate **Backend Developer** with a keen interest in building things t
 
   
 
-🌱 **I'm currently learning **
+🌱 **I'm currently learning**
 
 Knowledge is power! I'm open in learning new things.Nowadays, I spend my free time learning:
 
@@ -43,7 +43,7 @@ If you have any questions about my work or my availability feel free to reach me
 
   
 
- - [ ] Email: gadosmark@gmail.com
+ - [ ] Email: gadosmark7@gmail.com
 
   
 
