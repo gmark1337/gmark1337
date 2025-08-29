@@ -19,22 +19,6 @@ Knowledge is power! I'm open in learning new things.Nowadays, I spend my free ti
 **.NET / C#**: I'm actively trying to sharpen my knowledge in C# and gain more hands-on experience in building robust and scalable backend systems.
 
   
-
-🚀 **My Projects**
-
-Feel free to browse some examples of my work. More projects will be added soon!
-
- - [ ] Project One: Web Scraper: A tool built with Node.js and Puppeteer
-                     to extract web data.
- - [ ] Project Two: Backend API: A RESTful API developed with .NET for a
-                     conceptual application.
- - [ ] Project Three (Concept): Future project idea involving real-time
-                     data processing.
-                     
-                     
-                     
-                     
-
   
 
 🤝 **Let's Connect!**
